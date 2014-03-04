@@ -1,0 +1,5 @@
+[ { 
+	"caption": "Backup File", 
+	"command": "backup_file", 
+	"args": { "paths": [] }
+} ]
